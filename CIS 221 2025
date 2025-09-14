@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> ICTM Y2S2 Timetable </title>
+</head>
+<body>
+<table border="3">
+<caption> ICTM Y2S1 Timetable </caption>
+<tr>
+<th> Day/Time </th>
+<th> 8am </th>
+<th> 10am </th>
+<th> 2pm </th>
+</tr>
+<tr>
+<th> Monday </th>
+<td> CIM 217 </td>
+</tr>
+<tr>
+<th> Tuesday </td>
+<td> CIR 205 </td>
+<td> CIR 209 </td>
+</tr>
+<tr>
+<th> Wednesday> </td>
+<td> CIR 211 </td>
+</tr>
+<tr>
+<th> Thursday </th>
+<td> CIR 211 </td>
+<td> CIM 207 </td>
+<td> CIR 201 </td>
+</tr>
+<tr>
+<th> Friday </th>
+<td> CIR 203 </td>
+<td>CIR 221 </td>
+</tr>
+</table>
+</body>
+</html>
