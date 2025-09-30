@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fashion Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Fashion Store</h1>
+    <p>Your one-stop destination for the latest fashion trends</p>
+
+  <section class="products">
+    <h2>Our Collection</h2>
+    <div class="product-card">
+      <img src="images/dress.jpg" alt="Stylish Dress">
+      <h3>Stylish Dress</h3>
+      <p>Price: $49.99</p>
+    </div>
+    <div class="product-card">
+      <img src="images/shoes.jpg" alt="Trendy Shoes">
+      <h3>Trendy Shoes</h3>
+      <p>Price: $79.99</p>
+    </div>
+    <div class="product-card">
+      <img src="images/jacket.jpg" alt="Classic Jacket">
+      <h3>Classic Jacket</h3>
+      <p>Price: $99.99</p>
+    </div>
+  </section>
+
+  <section class="sales">
+    <h2>Upcoming Sale Offers</h2>
+    <table>
+      <tr>
+        <th>Sale Event</th>
+        <th>Date</th>
+        <th>Discount</th>
+      </tr>
+      <tr>
+        <td>Winter Collection</td>
+        <td>5 Oct 2025</td>
+        <td>Up to 40% Off</td>
+      </tr>
+      <tr>
+        <td>Festive Offer</td>
+        <td>20 Oct 2025</td>
+        <td>Buy 1 Get 1 Free</td>
+      </tr>
+    </table>
+  </section>
+  <section class="benefits">
+    <h2>Why Shop With Us?</h2>
+    <ul>
+      <li>High-quality fashion at affordable prices</li>
+      <li>Free shipping on orders over $50</li>
+      <li>30-day easy returns</li>
+      <li>Exclusive member discounts</li>
+    </ul>
+  </section>
+  <footer>
+    <p>&copy; 2025 Fashion Store. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
