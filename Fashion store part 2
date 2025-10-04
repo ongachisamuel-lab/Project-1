@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fashion Store Inventory</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    table {
+      width: 90%;
+      margin: 30px auto;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 12px;
+      text-align: center;
+    }
+    th {
+      background-color: #444;
+      color: white;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Fashion Store Inventory Report</h1>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Pieces Bought</th>
+      <th>Pieces Sold</th>
+      <th>In Stock</th>
+      <th>Revenue Generated</th>
+    </tr>
+    <tr>
+      <td>Elegant Dress</td>
+      <td>50</td>
+      <td>30</td>
+      <td>20</td>
+      <td>$1499.70</td>
+    </tr>
+    <tr>
+      <td>Stylish Sneakers</td>
+      <td>40</td>
+      <td>25</td>
+      <td>15</td>
+      <td>$1499.75</td>
+    </tr>
+    <tr>
+      <td>Winter Jacket</td>
+      <td>30</td>
+      <td>20</td>
+      <td>10</td>
+      <td>$1799.80</td>
+    </tr>
+  </table>
+
+  <div class="footer">
+    &copy; 2025 Fashion Store. All rights reserved.
+  </div>
+
+</body>
+</html>
